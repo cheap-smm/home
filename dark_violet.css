@@ -1,0 +1,35 @@
+:root {
+    --surface-error: #D14E34;
+    --text-error: #D14E34;
+
+    --surface-promo: #FF6933;
+    --text-promo: #FF6933;
+
+    --surface-attention: #F58300;
+    --text-attention: #F58300;
+
+    --surface-brand: #008DF2;
+    --text-brand: #008DF2;
+    --text-on-brand: #FFFFFF;
+
+    --surface-success: #1AA33D;
+    --text-success: #1EBD46;
+
+    --surface-line: rgba(45, 43, 71, 0.50);
+
+    --surface-card: #191529;
+
+    --text-main: rgba(250, 252, 255, 0.85);
+    --text-secondary: #9189A3;
+    --surface-icon: #ADBFCD;
+    --surface-border: #2D2B47;
+
+    --surface-background: #11101F;
+    --surface-background-secondary: #353147;
+
+    --surface-disabled: #465A89;
+
+    --shadow-S: 0px 1px 2px 0px rgba(13, 7, 19, 0.72);
+    --shadow-M: 0px 8px 32px 0px rgba(14, 5, 18, 0.40);
+    --shadow-L: 0px 10px 30px rgba(0, 0, 0, 0.2);
+}
